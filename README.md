@@ -1,0 +1,1 @@
+I built a Song Recommender System using content-based collaborative filtering that suggests 5 songs to users. The recommendations are generated based on artist, user ratings, and movie associations for a personalized music experience.
